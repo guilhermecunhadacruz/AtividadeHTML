@@ -103,3 +103,54 @@
     color: #663128;
 }
 
+.retangulo{
+    position: absolute;
+    width: 873px;
+    height: 180px;
+    left: 1030px;
+    top: 0px;
+    background-image: radial-gradient(ellipse farthest-corner at 1300px 0px , rgba(255, 255, 255, 0) 74.1%, #7C4032 0%, #7C4032 0%);
+    transform: rotate(180deg);
+}
+
+.retangulo-2{
+    position: absolute;
+    width: 1900px;
+    height: 222px;
+    left: 0px;
+    top: 610px;
+    background-image: radial-gradient(ellipse farthest-corner at 1950px 0px , rgba(255, 255, 255, 0) 74.1%, #7C4032 0%, #7C4032 0%);
+}
+
+
+.retangulo-3{
+    position: absolute;
+    width: 1900px;
+    height: 400px;
+    left: 0px;
+    top: 830px;
+    background: #7C4032;
+    transform: rotate(0deg);
+}
+
+.services{
+    position: absolute;
+    width: 312px;
+    height: 96px;
+    left: 796px;
+    top: 967px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 96px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+}
